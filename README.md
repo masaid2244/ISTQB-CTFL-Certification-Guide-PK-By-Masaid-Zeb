@@ -100,31 +100,63 @@ The syllabus equips candidates with comprehensive testing concepts and terminolo
 💡 **Note**: Chapters with ⭐⭐⭐ or ⭐⭐⭐⭐ are highly emphasized, but understanding all chapters is crucial for the exam and practical applications.
 
 ## 🌐 **Course Content Overview**
+ ## 🔍 **Fundamentals of Testing**  
+| Topic                                   | Description                             |
+|-----------------------------------------|-----------------------------------------|
+| ✅ **What is Testing**                  | Understanding the basics of testing.   |
+| ❓ **Why is Testing Necessary**         | Importance and benefits of testing.    |
+| 📋 **Testing Principles**               | Key principles guiding testing.        |
+| 🛠️ **New Activities, Testware & Roles** | Overview of tools and responsibilities.|
+| 🌟 **Essential Skills & Good Practices**| Improving testing efficiency.          |
 
-### **Fundamentals of Testing**
-- What is Testing & Why It’s Necessary ✅  
-- Testing Principles 📋  
-- New Activities, Testware & Test Roles 🔍  
+---
 
-### **Testing Throughout the Software Development Lifecycle (SDLC)**
-- Test Levels & Test Types 🛠️  
-- Maintenance Testing 🔄  
+## 🛠️ **Testing Throughout the SDLC**  
+| Topic                     | Description                                   |
+|---------------------------|-----------------------------------------------|
+| 🏗️ **Testing in SDLC**    | Testing in the context of development.       |
+| ⚙️ **Test Levels & Types** | Unit, integration, system, and acceptance.  |
+| 🔄 **Maintenance Testing** | Testing for updates and fixes.              |
 
-### **Static Testing**
-- Feedback & Review Process 📝  
+---
 
-### **Test Analysis & Design**
-- Black-Box & White-Box Techniques ⚫⚪  
-- Experience-Based & Collaboration-Based Test Approaches 🤝  
+## 📑 **Static Testing**  
+| Topic                       | Description                                   |
+|-----------------------------|-----------------------------------------------|
+| 📝 **Static Testing Basics**| Understanding static testing processes.      |
+| 🔄 **Feedback & Reviews**   | Reviewing deliverables for improvement.      |
 
-### **Managing Test Activities**
-- Test Planning, Risk Management & Monitoring 🗂️📈  
-- Configuration Management ⚙️  
-- Defect Management 🛠️  
+---
 
-### **Test Tools & Automation**
-- Tool Support & Risks of Test Automation 🤖  
+## 🎯 **Test Analysis & Design**  
+| Topic                            | Description                               |
+|----------------------------------|-------------------------------------------|
+| 🧩 **Test Techniques Overview**   | Introduction to testing techniques.      |
+| ⚫ **Black-Box Test Techniques**  | Testing without internal knowledge.      |
+| ⚪ **White-Box Test Techniques**  | Testing with internal knowledge.         |
+| 🤝 **Experience-Based Techniques**| Testing based on prior experience.       |
+| 🤝 **Collaboration Approaches**  | Team-based testing techniques.           |
 
+---
+
+## 📊 **Managing Test Activities**  
+| Topic                                    | Description                             |
+|------------------------------------------|-----------------------------------------|
+| 📅 **Test Planning**                     | Scheduling and resource management.     |
+| ⚠️ **Risk Management**                   | Identifying and mitigating risks.       |
+| 📈 **Monitoring, Control & Completion**  | Tracking and finalizing tests.          |
+| ⚙️ **Configuration Management**          | Managing test environments and assets.  |
+| 🐞 **Defect Management**                 | Handling and resolving defects.         |
+
+---
+
+## 🤖 **Test Tools**  
+| Topic                            | Description                                   |
+|----------------------------------|-----------------------------------------------|
+| 🛠️ **Tool Support for Testing**  | Enhancing testing with tools.                |
+| ⚠️ **Benefits & Risks of Automation**| Understanding pros and cons of automation. |
+
+---
 
 ---
 
@@ -144,11 +176,11 @@ Follow this sequence for the best results:
 ## 📚 Recommended Resources
 
 1. **Books and PDFs**:
-   - Download the [syllabus PDF](https://pstb.pk/).
+   - Download the [syllabus PDF](https://www.istqb.org/certifications/certified-tester-foundation-level-ctfl-v4-0/).
 
 2. **Sample Exams**:
-   - [ISTQB Sample Exams A, B, C, D](https://www.istqb.org/certifications/certified-tester-foundation-level)
-   - [ASTQB Sample Exams](https://astqb.org/)
+   - [ISTQB Sample Exams A, B, C, D](https://www.istqb.org/certifications/certified-tester-foundation-level-ctfl-v4-0/)
+   - [ASTQB Sample Exams](https://astqb.org/certifications/foundation-level-certification/)
 
 3. **YouTube Channels**:
    - [TM Square](https://www.youtube.com/c/TMSquare) ⭐⭐⭐
@@ -165,6 +197,7 @@ Follow this sequence for the best results:
 
 ## 📧 Need Help?
 If you have any questions or need assistance, feel free to reach out to me. I'm here to help! 😊
+
 
 ---
 
