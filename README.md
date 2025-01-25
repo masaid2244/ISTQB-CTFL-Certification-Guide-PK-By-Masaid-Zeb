@@ -183,21 +183,48 @@ Follow this sequence for the best results:
    - [ASTQB Sample Exams](https://astqb.org/certifications/foundation-level-certification/)
 
 3. **YouTube Channels**:
-   - [TM Square](https://www.youtube.com/c/TMSquare) ⭐⭐⭐
+   - [TM Square](https://www.youtube.com/watch?v=bIbkdmHJoHs&list=PLj5VKaW115t0LT-7DICjHkGuxdTEqFI91) ⭐⭐⭐
 
 ---
 
-## 🎯 Pro Tips
-- Focus on chapters with the **most MCQs** first (Chapter 4 and 5).
-- Practice **sample exams** and check your answers using the provided keys.
-- If reading is challenging, watch YouTube videos instead of reading the course book.
-- Stay consistent and confident! 💪
+## 🎯 **Pro Tips for ISTQB® Success**  
+
+### 🌟 **Prioritize Your Study Plan**  
+- 📌 Focus on **chapters with the most MCQs** first, such as **Chapter 4** and **Chapter 5**.  
+- 📝 Practice **sample exams** from **official ISTQB® or ATQB sources only** to ensure accuracy. Avoid third-party sites, as their content may not align with the current syllabus.  
 
 ---
 
-## 📧 Need Help?
-If you have any questions or need assistance, feel free to reach out to me. I'm here to help! 😊
+### 📖 **Strengthen Your Foundations**  
+- 🔄 **Don’t cram**—instead, focus on building **strong concepts**.  
+- 📚 Read the syllabus and materials **2–3 times** to fully absorb all the content.  
+- 🖊️ **Create your own notes**—it helps with better memory retention.  
 
+---
+
+### 🎥 **Switch Up Your Learning Style**  
+- 🎬 If reading feels overwhelming, watch **YouTube videos** to reinforce your understanding.  
+- 💡 Visual and auditory learning can make the material more engaging.  
+
+---
+
+### 🧠 **Focus on Basics and Mindset**  
+- 🛠️ Build a strong foundation in **basic QA concepts**—they are crucial for success.  
+- 🧩 Remember: ISTQB® is **not difficult**, it’s a **mind game**! Approach it with confidence. 💪  
+- 🎯 Stay **consistent** and trust your preparation process.  
+
+---
+
+### 📋 **Proven Strategies for Retention**  
+- 📖 Read **relevant books multiple times** to reinforce key ideas.  
+- 🗂️ Break complex topics into smaller, manageable sections.  
+- 🧠 Regularly review your notes for **better retention**.  
+
+---
+
+### 🚀 **Your Success Awaits!**  
+With the right plan, a focused mindset, and consistent effort, you can ace the ISTQB® exam. 🌟  
+Stay confident, keep pushing forward, and remember: **You’ve got this!** 🎉  
 
 ---
 
@@ -205,6 +232,17 @@ If you have any questions or need assistance, feel free to reach out to me. I'm 
 - [PSTB Registration](https://pstb.pk/)
 - [ISTQB Official Site](https://www.istqb.org/)
 - [Sample Exams](https://www.istqb.org/certifications/certified-tester-foundation-level)
+
+---
+
+## 📧 Need Help?
+If you have any questions or need assistance, feel free to reach out to me. I'm here to help! 😊
+
+ ## 🤝 **Let's Connect!**  
+
+- 📧 **Email**: [masaid.zeb2244@gmail.com](mailto:masaid.zeb2244@gmail.com)  
+- 🔗 **LinkedIn**: [Masaid Zeb ISTQB® (CTFL)](https://www.linkedin.com/in/masaid-sqa/)  
+- 📱 **WhatsApp**: [03240907223](https://wa.me/923240907223)   
 
 ---
 
