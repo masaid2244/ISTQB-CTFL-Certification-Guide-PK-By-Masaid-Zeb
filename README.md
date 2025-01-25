@@ -33,15 +33,32 @@ The ISTQB exam is conducted **every month** in Pakistan. 📆
 
 ---
 
-## 📝 Registration Process
-1. **Register for the Exam**: Visit the [PSTB website](https://pstb.pk/) to register.
-2. **Fee Details**: Exam fee is **Rs. 30,000**.
-3. **Fee Submission**:
-   - Submit the fee voucher to any **Habib Metropolitan Bank**.
-   - Send a scanned copy of the paid voucher to **operations@pstb.pk** via email.
-4. **Confirmation**:
-   - After sending the email, you'll receive a confirmation.
-   - A week before the exam, you'll get your roll number slip via email.
+## 📝 **ISTQB® CTFL Exam Registration Process** 🌐💼
+
+Follow these simple steps to register for the **ISTQB® Certified Tester Foundation Level (CTFL)** exam in Pakistan. 🇵🇰
+
+1. **📥 Register for the Exam**: Visit the official [PSTB website](https://pstb.pk/) to complete your registration for the globally recognized ISTQB® certification. 🌎✨
+
+2. **💰 Fee Details**: The exam fee is **Rs. 30,000**. Invest in your future as a certified software tester! 💼📈
+
+3. **🏦 Fee Submission**:
+   - Deposit the fee voucher at any **Habib Metropolitan Bank** branch. 🏢✔️
+   - Email a scanned copy of the paid voucher to **operations@pstb.pk**. 📧✉️
+
+4. **✅ Confirmation**:
+   - After submitting the voucher, you'll receive a **registration confirmation email**. 📩
+   - One week before the exam, you'll get your **roll number slip** via email. 🗂️📧
+
+---
+
+### 💡 **Pro Tips for a Smooth Registration**:
+- Double-check your details before submitting your registration form. ✅✍️
+- Keep a copy of the paid fee voucher as proof of payment. 🧾📂
+- Add **operations@pstb.pk** to your email contacts to avoid missing any updates. 📥📬
+
+---
+
+With a hassle-free registration process, you're one step closer to achieving the prestigious **ISTQB® CTFL certification** and enhancing your software testing career! 🚀✨
 
 ---
 
