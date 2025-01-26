@@ -4,10 +4,9 @@ Welcome to this comprehensive guide to help you prepare for and pass the **ISTQB
 
 ---
 # Table of Contents
-- [✨ ISTQB CTFL 🏅 Exam Guide for Pakistani 🇵🇰 Aspirants](#-istqb-ctfl--exam-guide-for-pakistani--aspirants)
-  - [🔍 What is ISTQB®?](#-what-is-istqb)
+- [🔍 What is ISTQB®?](#-what-is-istqb)
   - [🏅 ISTQB® Certified Tester Foundation Level v4.0](#-istqb-certified-tester-foundation-level-v40)
-  - [🇵🇰 ISTQB® and PSTB in Pakistan](#-istqb-and-pstb-in-pakistan)
+  - [ ISTQB® and PSTB in Pakistan](#-istqb-and-pstb-in-pakistan)
 - [🌟 Who Should Pursue CTFL?](#-who-should-pursue-ctfl)
 - [✨ Why Pursue ISTQB® Certification?](#-why-pursue-istqb-certification)
 - [🗓 Exam Schedule](#-exam-schedule)
