@@ -3,6 +3,33 @@
 Welcome to this comprehensive guide to help you prepare for and pass the **ISTQB (International Software Testing Qualifications Board) CTFL (Certified Tester Foundation Level)** exam! This guide includes step-by-step instructions, preparation tips, important resources, and links. 🏆
 
 ---
+# Table of Contents
+- [✨ ISTQB CTFL 🏅 Exam Guide for Pakistani 🇵🇰 Aspirants](#-istqb-ctfl--exam-guide-for-pakistani--aspirants)
+  - [🔍 What is ISTQB®?](#-what-is-istqb)
+  - [🏅 ISTQB® Certified Tester Foundation Level v4.0](#-istqb-certified-tester-foundation-level-v40)
+  - [🇵🇰 ISTQB® and PSTB in Pakistan](#-istqb-and-pstb-in-pakistan)
+- [🌟 Who Should Pursue CTFL?](#-who-should-pursue-ctfl)
+- [✨ Why Pursue ISTQB® Certification?](#-why-pursue-istqb-certification)
+- [🗓 Exam Schedule](#-exam-schedule)
+- [📝 ISTQB® CTFL Exam Registration Process 🌐💼](#-istqb-ctfl-exam-registration-process-)
+  - [💡 Pro Tips for a Smooth Registration](#-pro-tips-for-a-smooth-registration)
+- [📘 ISTQB® CTFL Syllabus Breakdown 🌟](#-istqb-ctfl-syllabus-breakdown-)
+  - [📊 Chapter Prioritization and Exam Structure](#-chapter-prioritization-and-exam-structure)
+  - [🌐 Course Content Overview](#-course-content-overview)
+    - [🔍 Fundamentals of Testing](#-fundamentals-of-testing)
+    - [🛠️ Testing Throughout the SDLC](#️-testing-throughout-the-sdlc)
+    - [📑 Static Testing](#-static-testing)
+    - [🎯 Test Analysis & Design](#-test-analysis--design)
+    - [📊 Managing Test Activities](#-managing-test-activities)
+    - [🤖 Test Tools](#-test-tools)
+- [🔖 Preparation Strategy](#-preparation-strategy)
+  - [📌 Recommended Study Sequence](#-recommended-study-sequence)
+- [📚 Recommended Resources](#-recommended-resources)
+- [🎯 Pro Tips for ISTQB® Success](#-pro-tips-for-istqb-success)
+  - [🌟 Prioritize Your Study Plan](#-prioritize-your-study-plan)
+  - [📖 Strengthen Your Foundations](#-strengthen-your-foundations)
+
+
 ## 🔍 **What is ISTQB®?**
 
 The **International Software Testing Qualifications Board (ISTQB®)** is the **most widespread qualification scheme in the world** 🌎 for software testing professionals. Its **syllabi contents and glossary** have become the **de facto industry reference** 📚 for the software testing profession. 
