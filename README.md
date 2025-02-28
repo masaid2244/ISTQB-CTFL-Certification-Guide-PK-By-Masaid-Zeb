@@ -1,4 +1,5 @@
-# ✨**ISTQB CTFL 🏅 Exam Guide for Pakistani 🇵🇰 Aspirants**
+# ✨**ISTQB CTFL** 🏅
+# Exam Guide for Pakistani 🇵🇰 Aspirants
 
 Welcome to this comprehensive guide to help you prepare for and pass the **ISTQB (International Software Testing Qualifications Board) CTFL (Certified Tester Foundation Level)** exam! This guide includes step-by-step instructions, preparation tips, important resources, and links. 🏆
 
