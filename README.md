@@ -268,7 +268,7 @@ If you have any questions or need assistance, feel free to reach out to me. I'm 
  ## 🤝 **Let's Connect!**  
 
 - 📧 **Email**: [masaid.zeb2244@gmail.com](mailto:masaid.zeb2244@gmail.com)  
-- 🔗 **LinkedIn**: [Masaid Zeb ISTQB® (CTFL)](https://www.linkedin.com/in/masaid-sqa/)  
+- 🔗 **LinkedIn**: [Masaid Zeb - ISTQB® (CTFL, CTFL-AT)](https://www.linkedin.com/in/masaid-sqa/)  
 - 📱 **WhatsApp**: [03240907223](https://wa.me/923240907223)   
 
 ---
