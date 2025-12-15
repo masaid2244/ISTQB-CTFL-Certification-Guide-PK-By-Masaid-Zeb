@@ -90,6 +90,18 @@ Follow these simple steps to register for the **ISTQB® Certified Tester Foundat
 4. **✅ Confirmation**:
    - After submitting the voucher, you'll receive a **registration confirmation email**. 📩
    - One week before the exam, you'll get your **roll number slip** via email. 🗂️📧
+🎯 **For Punjab Domicile Holders:**
+
+If you're a **Punjab resident**, you might be eligible for **100% fee reimbursement** upon passing the ISTQB® exam.
+
+To claim your reimbursement:
+
+1. **Register on the PITB Portal.**  
+   Secure your spot for the exam by completing the registration on the [**official PITB portal**](https://certifications.pitb.gov.pk/). 🌍✨
+2. Complete your exam registration on the **PSTB website**.
+3. After passing, **submit your challan** via the PITB portal to claim your reimbursement.
+
+⚠️ **Pre-approval** from PITB is required before you can register for the exam.
 
 ---
 
