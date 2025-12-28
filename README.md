@@ -128,8 +128,8 @@ The syllabus equips candidates with comprehensive testing concepts and terminolo
 | **4**   | ⭐⭐⭐⭐ **Critical**        | **11**    |
 | **5**   | ⭐⭐⭐ **High Priority**    | **9**     |
 | **1**   | ⭐⭐⭐ **High Priority**    | **8**     |
-| **2**   | ⭐⭐ **Moderate Priority** | **5**     |
-| **3**   | ⭐⭐ **Moderate Priority** | **5**     |
+| **2**   | ⭐⭐ **Moderate Priority** | **6**     |
+| **3**   | ⭐⭐ **Moderate Priority** | **4**     |
 | **6**   | ⭐⭐ **Basic Priority**    | **2**     |
 
 - **✅ Total Questions**: 40 MCQs.  
